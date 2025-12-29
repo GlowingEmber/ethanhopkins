@@ -7,10 +7,11 @@ This content will be displayed at the top of the index page.
 You can leave this empty if you don’t want to show any content.
 -->
 
-A static blog theme based on [Astro](https://astro.build), designed for clarity and focus.
+Hello! My name is Ethan :) I am a fourth-year undergraduate student studying computer science with a special interest in graph theory and computational complexity. I am also a student of mindfulness and Buddhism.
 
-With a deliberately minimal design, this layout ensures your content takes center stage. It's built for flexibility, offering customization options that honor its clean and elegant aesthetic.
-
-Effortlessly share your thoughts in _a calm & dustless space._
-
-Check posts for details and view source on [GitHub](https://github.com/the3ash/astro-chiri).
+[GitHub](https://github.com/GlowingEmber)  
+[DropBox \(art\)](https://www.dropbox.com/scl/fo/m810rppy3wuf04mrtt0b2/APprMAFy1gStk6whjtg3XG0?rlkey=ug7dqcotu1hibfgshamtwwl7f&st=8c77vq6i&dl=0)  
+[resume.pdf](/public/resume.pdf)  
+[LinkedIn](https://www.linkedin.com/in/ethan-hopkins/)  
+  
+ethan.e.hopkins@gmail.com

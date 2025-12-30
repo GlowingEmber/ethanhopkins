@@ -11,7 +11,7 @@ Hello! My name is Ethan :) I am a fourth-year undergraduate student studying com
 
 [GitHub](https://github.com/GlowingEmber)  
 [DropBox \(art\)](https://www.dropbox.com/scl/fo/m810rppy3wuf04mrtt0b2/APprMAFy1gStk6whjtg3XG0?rlkey=ug7dqcotu1hibfgshamtwwl7f&st=8c77vq6i&dl=0)  
-[resume.pdf](/public/resume.pdf)  
+[resume.pdf](/resume.pdf)  
 [LinkedIn](https://www.linkedin.com/in/ethan-hopkins/)  
   
 ethan.e.hopkins@gmail.com
